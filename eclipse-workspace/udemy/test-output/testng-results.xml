@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19616" started-at="2020-04-15T07:09:34Z" finished-at="2020-04-15T07:09:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19616" started-at="2020-04-15T07:09:34Z" finished-at="2020-04-15T07:09:53Z">
+      <class name="com.udemy.test.AssignmentSection13Last">
+        <test-method status="PASS" signature="Assignment13Last_qaclick()[pri:0, instance:com.udemy.test.AssignmentSection13Last@6cc4c815]" name="Assignment13Last_qaclick" duration-ms="19586" started-at="2020-04-15T17:09:34Z" finished-at="2020-04-15T17:09:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assignment13Last_qaclick -->
+      </class> <!-- com.udemy.test.AssignmentSection13Last -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
