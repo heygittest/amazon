@@ -22,7 +22,7 @@ public class AssignmentSection12Assign6 {
 		driver.manage().window().maximize();
 		//select the second checkbox
 		WebElement check=driver.findElement(By.xpath("//*[@id='checkbox-example']/fieldset/label[2]/input"));
-	
+	System.out.println("Hello");
 		String getName=check.getAttribute("value");
 		check.click();
 		
