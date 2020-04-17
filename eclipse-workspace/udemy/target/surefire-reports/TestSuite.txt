@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.udemy.test.AssignementSection13
+Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.221 sec
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 51.817 s - in TestSuite
