@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.udemy.test.AssignementSection13"/>
+      <class name="com.udemy.test.AssignmentSection12Assign6"/>
+      <class name="com.udemy.test.AssignmentSection13Last"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

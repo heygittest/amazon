@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.udemy.test.AssignementSection13" duration-ms="18712" started-at="2020-04-16T07:11:16Z" finished-at="2020-04-16T07:11:34Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="18712" started-at="2020-04-16T07:11:16Z" finished-at="2020-04-16T07:11:34Z">
+      <class name="com.udemy.test.AssignementSection13">
+        <test-method status="PASS" signature="Assignmentsection13_qaclick()[pri:0, instance:com.udemy.test.AssignementSection13@35f983a6]" name="Assignmentsection13_qaclick" duration-ms="18689" started-at="2020-04-16T17:11:16Z" finished-at="2020-04-16T17:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assignmentsection13_qaclick -->
+      </class> <!-- com.udemy.test.AssignementSection13 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.udemy.test.AssignementSection13 -->
+</testng-results>

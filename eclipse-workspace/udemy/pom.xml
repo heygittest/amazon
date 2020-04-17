@@ -27,4 +27,9 @@
 </dependency>
 
 </dependencies>
+<profiles>
+    <profile>
+        <id>utest</id>
+    </profile>
+</profiles>
 </project>
