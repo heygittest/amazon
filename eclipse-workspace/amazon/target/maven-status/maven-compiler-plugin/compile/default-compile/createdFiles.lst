@@ -1,0 +1,4 @@
+com\qa\amazon\pages\loginPage.class
+com\qa\amazon\pages\HomePage.class
+com\qa\amazon\util\UtilClass.class
+com\qa\amazon\base\AmazonBase.class
